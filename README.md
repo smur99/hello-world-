@@ -1,2 +1,2 @@
 # hello-world-
-Mine
+All mine
